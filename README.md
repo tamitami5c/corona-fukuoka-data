@@ -1,0 +1,1 @@
+# corona-fukuoka-data
