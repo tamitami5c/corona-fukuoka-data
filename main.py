@@ -31,7 +31,7 @@ def daterange(start_date,end_date):
 
 def main():
     #福岡県のopendata
-    url="https://ckan.open-governmentdata.org/dataset/8a9688c2-7b9f-4347-ad6e-de3b339ef740/resource/c27769a2-8634-47aa-9714-7e21c4038dd4/download/400009_pref_fukuoka_covid19_patients.csv"
+    url="https://ckan.open-governmentdata.org/dataset/8a9688c2-7b9f-4347-ad6e-de3b339ef740/resource/765d78d5-6754-43eb-850e-a658b086469b/download/400009_pref_fukuoka_covid19_patients.csv"
     file_name=download_file(url)
     #日付とその日の陽性者数をセットしていく
     data={}
